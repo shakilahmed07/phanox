@@ -1,0 +1,14 @@
+
+
+
+.inner-carousel{
+  display: flex;
+
+}
+.carousel{
+  cursor: grab;
+  overflow: hidden;
+}
+
+
+
